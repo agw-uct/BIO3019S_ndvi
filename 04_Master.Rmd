@@ -123,7 +123,7 @@ The simplest
 Q4: How many degrees of freedom are there in this ANOVA and why (i.e. what are they)?
 
 >*Answer 4:*
-
+Is anyone really ever free?
 <br>
 
 ### 4. Fit models using Maximum Likelihood Estimation (MLE)
