@@ -216,7 +216,11 @@ AIC_simple - AIC_full
 Q5: Is there a preferred model and if so, which one?
 
 >*Answer 5:*
+<<<<<<< HEAD
 changes
+=======
+change
+>>>>>>> 7d6e9eb7f9e95b65197283e184f0484522d4cfba
 <br>
 
 The nice thing about AIC is that the models you compare do not have to be nested like they do for ANOVA, as long as the data are the same. There are a few other constraints however... 
