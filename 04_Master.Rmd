@@ -118,6 +118,7 @@ anova(fit_negexp, fit_negexpS)
 Q3: Which model is better?
 
 >*Answer 3:*
+The simplest
 
 Q4: How many degrees of freedom are there in this ANOVA and why (i.e. what are they)?
 
