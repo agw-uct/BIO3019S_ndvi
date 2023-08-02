@@ -234,5 +234,5 @@ You'll notice that these are completely different to the AICs for the MLE models
 Q6: Why is it not okay to compare the AIC of these NLS models with the AIC of the MLE models? Hint: type `?AIC` into the R console and do some reading.
 
 >*Answer 6:*
-
+test
 <br>
