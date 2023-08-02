@@ -100,7 +100,7 @@ Lots more parameters...
 Q2: How do the estimates for the common parameters compare?
 
 >*Answer 2:*
-
+Nothing compares 2U
 <br>
 
 ### 3. Compare NLS models using ANOVA
